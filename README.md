@@ -10,6 +10,7 @@ Creates an html file listing all the classnotes with links. Use with the Chrome 
 - run `ruby index_markdown.rb`
 - note: you'll need to rerun each time you pull the notes
 - open `classnotes_md_index.html` in Chrome
+
 ---
 ### Optional (but recommended) 
 - Install the [Markdown Preview Plus](https://chrome.google.com/webstore/detail/markdown-preview-plus/febilkbfcbhebfnokafefeacimjdckgl) extension for Chrome. This will give you pretty HTML output like this -

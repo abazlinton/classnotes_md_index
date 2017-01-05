@@ -1,6 +1,6 @@
 # Classnotes index
 
-Creates an html file listing all the classnotes with links. Use with the Chrome extension below to make browsing the notes a little easier :)
+Creates an html file listing all the classnotes with links. Use with the Chrome extension below to make browsing / reading the notes a little easier :)
 
 ###Installation
 

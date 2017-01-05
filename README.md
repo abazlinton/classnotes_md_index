@@ -2,6 +2,8 @@
 
 Creates an html file listing all the classnotes with links. Use with the Chrome extension below to make browsing the notes a little easier :)
 
+###Installation
+
 - Download (don't clone) `index_markdown.rb` into `cx3_7_classnotes`
 - run `ruby index_markdown.rb`
 - open `classnotes_md_index.html` - 

@@ -4,8 +4,9 @@ Creates an html file listing all the classnotes with links. Use with the Chrome 
 
 ###Installation
 
-- Download (don't clone) `index_markdown.rb` into `cx3_7_classnotes`
+- download (don't clone) `index_markdown.rb` into `cx3_7_classnotes`
 - run `ruby index_markdown.rb`
+- note: you'll need to rerun each time you pull the notes
 - open `classnotes_md_index.html` - 
 
 ![alt text](https://github.com/abazlinton/classnotes_md_index/blob/master/index.png "Index")

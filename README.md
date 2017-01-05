@@ -1,6 +1,6 @@
 # Classnotes index
 
-- Download  `index_markdown.rb` into `cx3_7_classnotes`
+- Download (don't clone) `index_markdown.rb` into `cx3_7_classnotes`
 - run `ruby index_markdown.rb`
 - open `classnotes_md_index.html` - 
 

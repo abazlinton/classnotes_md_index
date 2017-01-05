@@ -3,6 +3,7 @@
 Creates an html file listing all the classnotes with links. Use with the Chrome extension below to make browsing / reading the notes a little easier :)
 
 ![alt text](https://github.com/abazlinton/classnotes_md_index/blob/master/index.png "Index")
+
 ---
 ###Installation
 

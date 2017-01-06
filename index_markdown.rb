@@ -37,7 +37,7 @@ for week in 1..16
   hash_for_week.each do |day_key, md_array|
     output.write("<h2>#{day_key}</h2>")
     md_array.each do |html|
-      output.write("<h3>#{html}</h3>")
+      output.write("<p>#{html}</p>")
     end
   end
 
